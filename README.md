@@ -3,9 +3,9 @@
 [![DOI](https://zenodo.org/badge/1128999581.svg)](https://doi.org/10.5281/zenodo.18163693)
 
 
-code associated with the cell reports article "a model of neural population dynamics for flexible sensorimotor control"
+This repository contains the code associated with the cell reports article "a model of neural population dynamics for flexible sensorimotor control" to simulate LQR-RNNs
 
-This repository contains LQR-RNN code that can run different tasks mentioned in the article (center out reaching, force fields, inertial loads, bar target (wider target task), shooting task)
+The code that can run different tasks mentioned in the article (center out reaching, force fields, inertial loads, bar target (wider target task), shooting task)
 
 ### First step download the raw datafolder: 
 To run the simulations or plot the data, download the folder named "datastore" from the following link and replace the dummy placeholder datastore folder
