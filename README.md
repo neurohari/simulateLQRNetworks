@@ -1,4 +1,8 @@
 # simulateLQRNetworks
+
+[![DOI](https://zenodo.org/badge/1128999581.svg)](https://doi.org/10.5281/zenodo.18163693)
+
+
 code associated with the cell reports article "a model of neural population dynamics for flexible sensorimotor control"
 
 This repository contains LQR-RNN code that can run different tasks mentioned in the article (center out reaching, force fields, inertial loads, bar target (wider target task), shooting task)
