@@ -8,6 +8,7 @@ code associated with the cell reports article "a model of neural population dyna
 This repository contains LQR-RNN code that can run different tasks mentioned in the article (center out reaching, force fields, inertial loads, bar target (wider target task), shooting task)
 
 ### CAUTION: To run the simulations or plot the data, download the folder named "datastore" from the following link and replace the dummy placeholder datastore folder. 
+10.6084/m9.figshare.29149901
 
 
 ## Requirements
