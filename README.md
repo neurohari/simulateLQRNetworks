@@ -9,7 +9,7 @@ This repository contains LQR-RNN code that can run different tasks mentioned in 
 
 ### CAUTION: To run the simulations or plot the data, download the folder named "datastore" from the following link and replace the dummy placeholder datastore folder. 
 
-[![Dataset](https://img.shields.io/badge/Dataset-Main%20Site-brightgreen)](https://doi.org/10.6084/m9.figshare.29149901)
+[![Dataset](https://img.shields.io/badge/Dataset-Download%20datafolder-brightgreen)](https://doi.org/10.6084/m9.figshare.29149901)
 
 
 
