@@ -7,14 +7,14 @@ This repository contains the code associated with the cell reports article "a mo
 
 The code that can run different tasks mentioned in the article (center out reaching, force fields, inertial loads, bar target (wider target task), shooting task)
 
-### First step download the raw datafolder: 
-To run the simulations or plot the data, download the folder named "datastore" from the following button and replace the dummy placeholder that exists in this repository
+### First step is to download the raw datafolder: 
+To run the simulations or plot the data, download the folder named "datastore" from the following button 
 [![Dataset](https://img.shields.io/badge/Dataset-Download%20datafolder-brightgreen)](https://doi.org/10.6084/m9.figshare.29149901) https://doi.org/10.6084/m9.figshare.29149901
 
+Replace the dummy placeholder datafolder that exists in this repository with the above download
 
 
-
-## Requirements
+## Software Requirements
 To get started install Anaconda python package and other dependencies such as: h5py, numpy, argpars, sklearn, pickle, json.
 
 ## To simulate a prepare to reach task to 8 targets
