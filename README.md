@@ -8,8 +8,8 @@ This repository contains the code associated with the cell reports article "a mo
 The code that can run different tasks mentioned in the article (center out reaching, force fields, inertial loads, bar target (wider target task), shooting task)
 
 ### First step download the raw datafolder: 
-To run the simulations or plot the data, download the folder named "datastore" from the following link and replace the dummy placeholder datastore folder
-[![Dataset](https://img.shields.io/badge/Dataset-Download%20datafolder-brightgreen)](https://doi.org/10.6084/m9.figshare.29149901)
+To run the simulations or plot the data, download the folder named "datastore" from the following button and replace the dummy placeholder datastore folder
+[![Dataset](https://img.shields.io/badge/Dataset-Download%20datafolder-brightgreen)](https://doi.org/10.6084/m9.figshare.29149901) https://doi.org/10.6084/m9.figshare.29149901
 
 
 
