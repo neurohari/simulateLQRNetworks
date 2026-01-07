@@ -1,5 +1,6 @@
 # simulateLQRNetworks
 
+For citing this code, the following DOI can be used:
 [![DOI](https://zenodo.org/badge/1128999581.svg)](https://doi.org/10.5281/zenodo.18163693)
 
 
