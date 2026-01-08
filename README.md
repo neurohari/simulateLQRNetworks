@@ -1,7 +1,7 @@
 # simulateLQRNetworks
 
 For citing this code, the following DOI can be used:
-[![DOI](https://img.shields.io/badge/Dataset-Download%20datafolder-darkblue)](https://doi.org/10.5281/zenodo.18163693)
+[![DOI](https://img.shields.io/badge/DOI-Zenodo-darkblue)](https://doi.org/10.5281/zenodo.18163693)
 
 
 This repository contains the code associated with the cell reports article "a model of neural population dynamics for flexible sensorimotor control" to simulate LQR-RNNs
