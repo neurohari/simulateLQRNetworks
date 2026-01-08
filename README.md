@@ -11,13 +11,15 @@ The code that can run different tasks mentioned in the article (center out reach
 ## Installation
 1. Clone the repository
 ```bash
-git clone [https://github.com/neurohari/simulateLQRNetworks.git](https://github.com/neurohari/simulateLQRNetworks.git)
+git clone https://github.com/neurohari/simulateLQRNetworks.git
 ```
 
 2. Go to the repository directory
+```bash
 cd simulateLQRNetworks
+```
 
-3. Install the required packages: Anaconda python package and other dependencies such as: h5py, numpy, argpars, sklearn, pickle, json. If you are using VScode, you can install a HDF5 viewer plugin so that you can visualize the contents of the hdf5 files in which we work in this code.
+4. Install the required packages: Anaconda python package and other dependencies such as: h5py, numpy, argpars, sklearn, pickle, json. If you are using VScode, you can install a HDF5 viewer plugin so that you can visualize the contents of the hdf5 files in which we work in this code.
 
 
 ## Downloading the datasets: 
