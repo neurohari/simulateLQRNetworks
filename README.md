@@ -12,6 +12,7 @@ The code that can run different tasks mentioned in the article (center out reach
 1. Clone the repository
 ```bash
 git clone [https://github.com/neurohari/simulateLQRNetworks.git](https://github.com/neurohari/simulateLQRNetworks.git)
+```
 
 2. Go to the repository directory
 cd simulateLQRNetworks
